@@ -55,6 +55,7 @@ Tools:context ile içerisinde bulunduğu layout dosyasının hangi activity ile 
       xmlns:tools="http://schemas.android.com/tools" 
       tools:context=".MainActivity" > 
 
+
 > **tools:listitem / tools:listheader / tools:listfooter** 
 
 Android Studio layout editor tarafından kullanılır. 
