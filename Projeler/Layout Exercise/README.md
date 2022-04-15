@@ -12,16 +12,16 @@
     <td>Premium Screen</td>
  
   </tr>
-  
+
 <tr>
     <td >
-      <img src="https://github.com/feyzademirhan/Layout_Exercise_UpSchool/blob/main/Screenshots/mainpage.png" width="200" hspace="5"/>
+      <img src="https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/blob/main/Projeler/Layout Exercise/Screenshots/mainpage.png" width="250" hspace="5"/>
     </td>
    <td>
-     <img src="https://github.com/feyzademirhan/Layout_Exercise_UpSchool/blob/main/Screenshots/startpage.png" width="200" hspace="5"/>
+     <img src="https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/blob/main/Projeler/Layout Exercise/Screenshots/startpage.png" width="250" hspace="5"/>
     </td>
       <td>
-     <img src="https://github.com/feyzademirhan/Layout_Exercise_UpSchool/blob/main/Screenshots/premiumpage.png" width="200" hspace="5"/>
+     <img src="https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/blob/main/Projeler/Layout Exercise/Screenshots/premiumpage.png" width="250" hspace="5"/>
     </td>
   
   </tr>
