@@ -8,11 +8,14 @@ import android.widget.TextView
 import androidx.core.text.bold
 import androidx.core.text.color
 import androidx.core.text.scale
+import androidx.databinding.DataBindingUtil
+import com.feyza.layoutexercise.databinding.ActivityPremiumBinding
 
 class PremiumActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityPremiumBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_premium)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_premium)
 
         val tvMonthlySpannableString: TextView = findViewById(R.id.monthlyPrice)
 
