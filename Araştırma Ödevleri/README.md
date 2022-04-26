@@ -12,7 +12,7 @@
 - Lateinit kullanımından bahseder misiniz?
 - Lateinit için bir örnek kullanım gösterir misiniz ?
 
-#### Cevaplar:
+#### Cevap:
 
 <p>•	Lateinit sadece non-primitive veri türleri için kullanılır ve değişken null olamaz. <br>
 •	Val ile kullanılmaz sadece var olan değişkenlerde kullanılır.<br>
@@ -42,7 +42,7 @@
 - Nasıl kullanılmalıdır ?
 - Bir adet Tools (tools namespace) attribute kullanımını gösterir misiniz ? 
 
-#### Cevaplar:
+#### Cevap:
 
 Layout dizini içinde xml dosyalarımız için kullandığımız namespace tools:context’dir. 
 
@@ -81,7 +81,8 @@ Bu attribute, bir listenin öğeleri, üstbilgisi ve altbilgisi için düzen ön
 
 P.S. [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family projenizde deneyebilirsiniz.
 
-#### Cevaplar:
+#### Cevap:
+
 Res klasörüne sağ tıklanır. New > Android resource directory'e tıklanır. New Resource Directory ekranı açılır. Resource type olarak font seçilir. Bu şekilde font dizini oluşturulmuş olunur. İndirilen font dosyalarını bu dosya dizinine eklenerek kullanılır.
 ![font](https://user-images.githubusercontent.com/77541994/164994933-73a7d613-9584-4bbe-af5f-4763112eb35d.PNG)
 
@@ -150,6 +151,8 @@ Fontları proje içerisinde kalıcı olması için bu yöntemi kullanmak faydal�
 
 P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation-resource#Property) faydalanabilirsiniz.
 
-#### Cevaplar:
+#### Cevap:
+- animator -> belirli bir süre boyunca bir animasyonu geçerli kılar.
+- onjectAnimator -> belirli bir süre boyunca bir nesnenin belirli bir özelliğini canlandırmak için kullanılır.
 
 
